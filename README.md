@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Amin Opu</h1>
 
 <h3 align="center">
-CSE Student | Software Developer | Seeking Software Engineering Internship
+CSE Student | Aspiring Software Developer | Seeking Software Engineering Internship
 </h3>
 
 <p align="center">
