@@ -14,7 +14,7 @@ CSE Student | Aspiring Software Developer | Seeking Software Engineering Interns
 
 ### 👨‍💻 About Me
 
-- 🎓 CSE student at Independent University, Bangladesh, graduating in 2026
+- 🎓 CSE student at Independent University, Bangladesh, Expected Graduation in 2027
 - 🔭 Currently building my developer portfolio and improving my full-stack projects
 - 🌱 Strengthening my skills in React, JavaScript, PHP, MySQL, Python, and Data Structures & Algorithms
 - 👯 Interested in open-source web development and beginner-friendly software projects
