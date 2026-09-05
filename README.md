@@ -8,6 +8,7 @@ CSE Student | Aspiring Software Developer | Seeking Software Engineering Interns
   <a href="mailto:shakibopu030@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/mahmudul-amin-opu/">LinkedIn</a> •
   <a href="https://github.com/Mahmudul-Opu">GitHub</a>
+  <a href="https://mahmudul-portfolio-phi.vercel.app/">Portfolio</a>
 </p>
 
 ---
